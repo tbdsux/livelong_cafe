@@ -18,6 +18,8 @@ module.exports = {
       black: '#000',
       white: '#fff',
 
+      leaf: '#76BA2B',
+
       emerald: '#2ecc71',
       nephritis: '#27ae60',
 
