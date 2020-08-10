@@ -1,0 +1,24 @@
+/* purgecss start ignore */
+
+@import "tailwindcss/base";
+
+@import "tailwindcss/components";
+.cover{
+    background: url('../images/cover.jpg') rgba(0, 0, 0, 0.7);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-blend-mode: multiply;
+}
+
+.cover-2{
+    background: url('../images/cover2.jpg') rgba(0, 0, 0, 0.7);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-blend-mode: multiply;
+    background-position: bottom;
+}
+
+/* purgecss end ignore */
+
+@import "tailwindcss/utilities";
+        
